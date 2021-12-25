@@ -1,4 +1,4 @@
-# Insertion-Sort-Projesi
+# İnsertion-Sort-Projesi
 ## Kodluyoruz.org ve Patikanın verdiği çalışmalar
 
 ### 1. Verilen dizinin İnsertion sort türüne göre aşamalarını yazınız ?
