@@ -42,3 +42,20 @@ Average Case kapsamına girer.
 ### Big o gösterimini yazınız ?
 
 O(nlogn)
+
+### Binary Search Tree
+
+## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız. ?
+
+İlk olarak root'u 7 olarak düşünelim.
+
+Root : 7
+               7
+              / \ 
+             5   8               
+            /   / \
+           3   6   9
+          / \
+         1   4
+        / \ 
+       0   2
